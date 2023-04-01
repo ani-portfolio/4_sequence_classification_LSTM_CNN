@@ -11,7 +11,10 @@
 src/__pycache__
 
 # venv
-.venv
+.4_venv
 
 # models
 models/
+
+# predictions
+predictions/
